@@ -4,7 +4,7 @@ This is an two-pass assembler for the Intel 8085 processor I programmed in C in 
 
 ## Notice
 
-This program is not intended to be a real modern solution. If you want that, go [here](https://github.com/TomNisbet/asm85)).
+This program is not intended to be a real modern solution. If you want that, go [here](https://github.com/TomNisbet/asm85).
 
 ## License
 
