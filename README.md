@@ -1,5 +1,10 @@
 # 8085 ASM
 
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+![GitHub all releases](https://img.shields.io/github/downloads/rgglez/8085asm/total) 
+![GitHub issues](https://img.shields.io/github/issues/rgglez/8085asm) 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rgglez/8085asm)
+
 This is an two-pass assembler for the Intel 8085 processor I programmed in C in 1994 for a computer systems course.
 
 ## Notice
@@ -8,7 +13,7 @@ This program is not intended to be a real modern solution. If you want that, go 
 
 ## License
 
-Copyright 1994 Rodolfo González González.
+Copyright (c) 1994 Rodolfo González González.
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
