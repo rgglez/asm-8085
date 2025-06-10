@@ -1,6 +1,6 @@
 # 8085 ASM
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+[![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 ![GitHub all releases](https://img.shields.io/github/downloads/rgglez/8085asm/total) 
 ![GitHub issues](https://img.shields.io/github/issues/rgglez/8085asm) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rgglez/8085asm)
@@ -13,15 +13,15 @@ This program is not intended to be a real modern solution. If you want that, go 
 
 ## License
 
-Copyright (c) 1994 Rodolfo González González.
-
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+Copyright 1994 Rodolfo González González.
 
 This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+[Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License][cc-by-nc-nd].
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+[![CC BY-NC-ND 4.0][cc-by-nc-nd-image]][cc-by-nc-nd]
 
-[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+[cc-by-nc-nd]: http://creativecommons.org/licenses/by-nc-nd/4.0/
+[cc-by-nc-nd-image]: https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png
+[cc-by-nc-nd-shield]: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg
+
+Read the [LICENSE](LICENSE.txt) file.
