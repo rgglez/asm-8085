@@ -4,6 +4,8 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/rgglez/asm-8085/total) 
 ![GitHub issues](https://img.shields.io/github/issues/rgglez/asm-8085) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rgglez/asm-8085)
+![GitHub stars](https://img.shields.io/github/stars/rgglez/asm-8085?style=social)
+![GitHub forks](https://img.shields.io/github/forks/rgglez/asm-8085?style=social)
 
 This is an two-pass assembler for the Intel 8085 processor I programmed in C in 1994 for a computer systems course.
 
@@ -26,3 +28,4 @@ This work is licensed under a
 
 
 Read the [LICENSE](LICENSE.txt) file.
+
