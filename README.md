@@ -9,10 +9,6 @@
 
 This is an two-pass assembler for the Intel 8085 processor I programmed in C in 1994 for a computer systems course.
 
-## Notice
-
-This program is not intended to be a real modern solution. If you want that, go [here](https://github.com/TomNisbet/asm85).
-
 ## License
 
 Copyright 1994 Rodolfo González González.
@@ -28,4 +24,5 @@ This work is licensed under a
 
 
 Read the [LICENSE](LICENSE.txt) file.
+
 
